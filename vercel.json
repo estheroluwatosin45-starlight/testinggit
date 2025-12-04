@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/notebook.html" }
+    { "source": "/(.*)", "destination": "/noteapp.html" }
   ]
 }
+
