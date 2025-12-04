@@ -2,6 +2,7 @@ body{
     margin: 0;
     background: linear-gradient(to left,#ffefd5,#87cefa);
     font-family: cursive;
+    padding: 0;
 }
 
 .heading{
